@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 import pydeck as pdk
-pip install plotly
 import plotly.express as px
 import altair as alt
 
